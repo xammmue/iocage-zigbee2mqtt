@@ -1,7 +1,7 @@
 {
   "name": "zigbee2mqtt",
-  "release": "12.2-RELEASE",
-  "artifact": "https://github.com/paxswill/iocage-zigbee2mqtt.git",
+  "release": "13.2-RELEASE",
+  "artifact": "https://github.com/xammmue/iocage-zigbee2mqtt.git",
   "official": "false",
   "devfs_ruleset": {
     "paths": {
@@ -21,8 +21,8 @@
     "ca_root_nss",
     "curl",
     "git-lite",
-    "node16",
-    "npm-node16"
+    "node18",
+    "npm-node18"
   ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
   "fingerprints": {
