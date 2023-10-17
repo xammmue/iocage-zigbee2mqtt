@@ -21,8 +21,8 @@
     "ca_root_nss",
     "curl",
     "git-lite",
-    "node14",
-    "npm-node14"
+    "node16",
+    "npm-node16"
   ],
   "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
   "fingerprints": {
